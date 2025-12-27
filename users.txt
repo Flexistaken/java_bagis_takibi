@@ -1,0 +1,2 @@
+1,Berna,berna@mail.com,123456,BAGISCI
+2,Kadir,kadir@mail.com,123456,BAGISCI
